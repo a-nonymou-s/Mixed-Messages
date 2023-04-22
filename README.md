@@ -39,8 +39,8 @@ This is a simple program that generates a random workout mix(warmup, main, coold
 + Pink – Just Like Fire 
 ## How to use?
 ### prerequisites
-* NodeJs [How to install?](https://nodejs.org/en/download)
-* Git [How to install?](https://git-scm.com/downloads)
+* NodeJs - [How to install?](https://nodejs.org/en/download)
+* Git - [How to install?](https://git-scm.com/downloads)
 ### How to run
 * Clone the repository `git clone https://github.com/a-nonymou-s/Mixed-Messages.git`
 * Change directory to the repo `cd Mixed-Messages`
